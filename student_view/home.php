@@ -6,7 +6,7 @@ include 'db/connect.php';
 <html>
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<link rel="stylesheet" href="css/w3.css">
-	<link rel="stylesheet" href="css/w3-theme-teal.css">
+	<link rel="stylesheet" href="css/w3-theme-teal.css"> 
 	<link rel="stylesheet" href="css/font-awesome-4.7.0/css/font-awesome.min.css">
 	
 	
@@ -15,13 +15,13 @@ include 'db/connect.php';
 		background: linear-gradient(rgba(26,26,26,0.2), rgba(26,26,26,0.2)),  url("images/52.jpg");
 		background-size: cover;
 		background-repeat: no-repeat;
-		background-position: center center;
+		background-position: center center; 
 		background-attachment: fixed;
 	}
 </style>
 	
 	
-	
+	 
 <body style="width:100%;min-height:450px;height:100%;">
 
 	<header class="w3-container w3-card-4 w3-theme w3-top">

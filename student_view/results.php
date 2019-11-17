@@ -14,7 +14,7 @@ include 'db/connect.php';
 		background: linear-gradient(rgba(26,26,26,0.2), rgba(26,26,26,0.2)),  url("images/52.jpg");
 		background-size: cover;
 		background-repeat: no-repeat;
-		background-position: center center;
+		background-position: center center; 
 		background-attachment: fixed;
 	}
 </style>	
